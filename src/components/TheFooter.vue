@@ -2,7 +2,10 @@
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+    <div>
+
+    </div>
 </template>
+
+<style scoped lang="scss">
+</style>
